@@ -29,7 +29,7 @@
 
 - `TG_BOT_TOKEN`: 你的 Bot 的 Token；
 - `TG_CHAT_ID`: 你和 Bot 的 Chat ID。
-
+ 
 ## 高级设置
 
 你可以在 `.github/workflows/main.yml` 中来设置每天运行的时间：
